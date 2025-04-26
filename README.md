@@ -26,7 +26,7 @@
 3. Параметризированные тесты с использованием декоратора
 
 
-![pytest-api](https://github.com/user-attachments/assets/0287190e-74b5-44df-9470-52749647b967)
+![pytest-api](https://raw.githubusercontent.com/M-Babaytsev-QA/python_autotests/refs/heads/main/pytest-api.png)
 
 
 ## Локальный запуск тестов (из терминала)
